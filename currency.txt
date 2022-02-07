@@ -1,0 +1,3 @@
+a Python project 
+
+this program convert a currncy in indian rupee.
